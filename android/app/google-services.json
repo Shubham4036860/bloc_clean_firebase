@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525573160446",
+    "project_id": "blocwithclean",
+    "storage_bucket": "blocwithclean.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525573160446:android:6309abe779aca2c859d4af",
+        "android_client_info": {
+          "package_name": "com.example.bloc_with_clean"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBABj_Iw_Gxy7yzafako8S1GaVFT-5LqSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
