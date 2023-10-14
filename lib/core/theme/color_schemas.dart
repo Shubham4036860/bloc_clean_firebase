@@ -16,6 +16,7 @@ const borderColorSell2 = Color(0xFFF3E6DB);
 const transparent = Color(0xFFFFFFFF);
 const colorLightGreen = Color(0xFF0E9A38);
 const colorGreyLight = Color(0xFF8B9192);
+
 const boutiqueColor = Color(0xFFF6E6D4);
 const colorGreyLight2 = Color(0xFFD0D3D3);
 const colorGreyLight3 = Color(0xFFEFEFEF);
